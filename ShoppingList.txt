@@ -4,3 +4,4 @@ Oranges
 Banana
 Peach
 Carrot
+Cereal
